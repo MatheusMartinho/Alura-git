@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-image: url(../img/bk.PNG);
+    background-image: url(img/bk.PNG);
     padding: 20px 0 ;  /** 20px para direta e esquerda e 0 pra cima e pra baixo **/
 }
 
@@ -92,7 +92,7 @@ nav a:hover { /** links da navegacao **/
 
 footer {
     text-align: center;
-    background-image: url(../img/bk.PNG);
+    background-image: url(img/bk.PNG);
     background-position: center;
     padding: 130px 0;
 }
